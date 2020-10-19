@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../AtCoder Regular Contest 105/.idea/AtCoder Regular Contest 105.iml" filepath="$PROJECT_DIR$/../AtCoder Regular Contest 105/.idea/AtCoder Regular Contest 105.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/AtCoder_TIPS.iml" filepath="$PROJECT_DIR$/.idea/AtCoder_TIPS.iml" />
     </modules>
   </component>
